@@ -16,13 +16,13 @@ function App() {
     {
       id:2,
       text: "Siga o perfil",
-      category: "Pessoal",
+      category: "Importante",
       isCompleted: false,
     },
     {
       id:3,
       text: "Deixe uma sugestão",
-      category: "Estudos",
+      category: "Importante",
       isCompleted: false,
     }
   ])
