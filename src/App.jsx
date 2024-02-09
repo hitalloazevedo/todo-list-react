@@ -30,7 +30,7 @@ function App() {
   const [search, setSearch] = useState('')
 
   const [filter, setFilter] = useState('All')
-  const [sort, setSort] = useState('Asc')
+  const [sort, setSort] = useState('Des')
 
 
   const addTodo = (text, category) => {
